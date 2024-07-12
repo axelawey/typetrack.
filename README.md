@@ -16,8 +16,8 @@ This is typetrack. A Python keylogger application that logs keystrokes with the 
 
 ## Installation & Usage
 - Clone the below repository:
-  git clone https://github.com/yourusername/keylogger.git
-  cd keylogger
+  -git clone https://github.com/yourusername/keylogger.git
+  -cd keylogger
   
 -Install the required libraries
    pip install pynput ttkbootstrap
